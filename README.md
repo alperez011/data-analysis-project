@@ -1,0 +1,2 @@
+## Cybersecurity Vulnerability Data Analysis
+This project processes and analyzes cybersecurity vulnerability datasets from the NVD, KEV, and CWE. Using Python (Pandas, NumPy, Matplotlib, Seaborn), the notebook cleans and normalizes raw JSON feeds into structured DataFrames, enabling trend analysis, severity distribution, and weakness categorization. Key features include CVE parsing, vulnerability-to-CPE mapping, exploit correlation (KEV), and visualization of vulnerability patterns.
